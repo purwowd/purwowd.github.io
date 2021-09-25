@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+#### <center> Ability to zoom out beyond the boundaries </center>
+<hr>
+
 ### // Backend Developer (Python & Django)
 I am a Django Developer. I have 2 years experience in Python with Django framework. My core skill is in Django, but I also have familiar with another python based projects, such as Flask, Scrapy, Selenium, etc.
 
