@@ -4,38 +4,20 @@ title: About
 permalink: /about/
 ---
 
-#### <center> Ability to zoom out beyond the boundaries </center>
+#### <center><strong>Ability to zoom out beyond the boundaries</strong></center>
 <hr>
 
-### // Backend Developer (Python & Django)
-I am a Django Developer. I have 2 years experience in Python with Django framework. My core skill is in Django, but I also have familiar with another python based projects, such as Flask, Scrapy, Selenium, etc.
+As a professional, I have 2+ years of experience in Web Developer. I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
 
 As a professional, I'm a passionate and energetic developer. That's why I'm the professional you should hire!
 
-`Soft skill:` reliable, honest, prompt, quick learner, clean code.
-
-#### // Backend Skills:
-- Python Async/Threading (DRF, Scrapy, Celery)
-- MVC Frameworks: Django, Flask
-- Relational Databases: PostgreSQL, MySQL
-- DevOps: Docker, Linux/Nginx/Apache
-
-#### // Frontend skills:
-- HTML5/CSS/Javascript
-- JS Frameworks: jQuery, React
-- CSS Frameworks: Bootstrap
-
-#### // API:
-- Stripe/PayPal/MailChimp/Twitter/Facebook/Google API/Twilio
-
-#### // Extra:
-- CI: GitLab, Circle CI, Heroku CI/CD
-- Cloud integrations: AWS, DigitalOcean
-- Scraping: Beautiful Soup, Scrapy, Selenium
-- Automation: Selenium
+#### <strong>Core Skills:</strong>
+- Backend (Python & Go)
+- Databases (MySQL, PostgreSQL, MongoDB)
+- Bootstrap (Js, CSS, JQuery)
+- Git & CI (GitHub, GitLab, Circle CI, Heroku CI/CD)
+- DevOps (Linux, Apache, Nginx, AWS, Heroku, Docker)
 - SDR Soft & Hard: OpenBTS, YateBTS, OpenLTE & RTL, BladeRF, USRP1, USRP B210
 
-#### // Interests:
-Photography, Big Data, Reading, & IT Security
-
-### [Hire Me!](https://purwowd.github.io/contact/)
+#### <strong>Interests:</strong>
+- Big Data, IT Security

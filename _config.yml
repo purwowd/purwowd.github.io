@@ -16,27 +16,33 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-twitter
-      link: "https://twitter.com/purwowd"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/purwowd/"
-    - icon: fa-stack-overflow
-      link: "https://stackoverflow.com/users/11934986"
+    - icon: fa-envelope
+      link: "mailto:id.purwowd@gmail.com"
     - icon: fa-github
       link: "https://github.com/purwowd"
+    - icon: fa-street-view
+      link: "https://goo.gl/maps/RevAYM3LQJHpPZ1S7"
+    - icon: fa-whatsapp
+      link: "http://wa.me/6287838311808"
+    - icon: fa-twitter
+      link: "https://twitter.com/purwowd"
+    - icon: fa-stack-overflow
+      link: "https://stackoverflow.com/users/11934986"
 
 share:
   twitter_username: github.io
 
 urls:
-    - text: About Me
+    - text: About
       url: /about/
+    - text: Contact
+      url: /contact/
     # - text: My Projects
     #   url: /projects/
     - text: XML Feed
       url: /feed.xml
-    - text: Contact Me
-      url: /contact/
 
 url: "https://purwowd.github.io"
 baseurl: ""
