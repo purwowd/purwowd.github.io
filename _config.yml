@@ -1,0 +1,55 @@
+title: (at)purwowd | ability to zoom out beyond the boundaries
+description: '&#64;purwowd'
+author: Purwo Widodo
+github: https://github.com/purwowd
+about: I'm a Software Engineer in Backend Team, especially on Python / Django. Gopher by request
+disqus_shortname: purwowd
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/purwowd"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/purwowd/"
+    - icon: fa-stack-overflow
+      link: "https://stackoverflow.com/users/11934986"
+    - icon: fa-github
+      link: "https://github.com/purwowd"
+
+share:
+  twitter_username: github.io
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+    - text: Contact Me
+      url: /contact/
+
+url: "https://purwowd.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

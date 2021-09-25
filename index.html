@@ -1,198 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Purwo Widodo | @purwowd</title>
-  <!-- font -->
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,900&amp;display=swap"
-    rel="stylesheet">
-  <!-- end font -->
-  <link rel="stylesheet" href="css/bootstrap.css">
-  <link rel="stylesheet" href="css/font-awesome.css">
-  <link rel="stylesheet" href="css/fakeLoader.css">
-  <link rel="stylesheet" href="css/owl.carousel.css">
-  <link rel="stylesheet" href="css/owl.theme.default.css">
-  <link rel="stylesheet" href="css/magnific-popup.css">
-  <link rel="stylesheet" href="css/style.css">
-</head>
+<div id="home">
+  <h1>{{ site.title }}</h1>
+  <hr />
 
-<body>
-  <!-- loader -->
-  <div class="fakeLoader"></div>
-  <!-- loader -->
-  <!-- header -->
-  <header id="home">
-    <!-- home intro -->
-    <div class="home-intro segments">
-      <div class="container">
-        <div class="intro-content box-content">
-          <div class="row justify-content-center">
-            <div class="col-md-8 col-sm-12 col-xs-12">
-              <div class="intro-caption">
-                <span>Hi, I'm Purwo Widodo!</span>
-                <h2>Software Engineer</h2>
-                <br>
-                <ul>
-                  <li>
-                    <i class="fab fa-linkedin" style="color:#d61a5e"></i><a href="https://www.linkedin.com/in/purwowd/">&ensp;
-                      linkedin.com/in/purwowd</a>
-                  </li>
-                  <li>
-                    <i class="fa fa-envelope" style="color:#d61a5e"></i><a href="mailto:">&ensp;
-                      id.purwowd@gmail.com</a>
-                  </li>
-                  <li>
-                    <i class="fab fa-whatsapp" style="color:#d61a5e"></i><a href="http://wa.me/6282114976970">&ensp;
-                      082114976970 (WA Only)</a>
-                  </li>
-                  <li>
-                    <i class="fab fa-github" style="color:#d61a5e"></i><a href="https://github.com/purwowd">&ensp;
-                      github.com/purwowd</a>
-                  </li>
-                  <li>
-                    <i class="fa fa-map-marker-alt" style="color:#d61a5e"></i><a href="#">&ensp;
-                      Bandung, Indonesia</a>
-                  </li>
-                </ul>
-                <!-- <button class="button rounded-pill">Download CV <i class="fa fa-download"></i></button> -->
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <div class="intro-image">
-                <img src="images/pp.jpg" alt="">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- end home intro -->
-  </header>
-  <!-- end header -->
+  <ol class="posts">
+    {% for post in paginator.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    {% endfor %}
+  </ol>
 
-  <!-- about -->
-  <div id="about" class="about segments">
-    <div class="container">
-      <div class="box-content">
-        <div class="row">
-          <div class="col-md-6 col-sm-12 col-xs-12">
-            <div class="content-left">
-              <div class="section-title section-title-left">
-                <h3>About Me</h3>
-              </div>
-              <div class="content">
-                <!-- <h2>I'm a Web Dev!</h2> -->
-                <p style="color:#d61a5e">Manners maketh man. You know that means! Cheers... <i class="fa fa-beer fa-flip-horizontal" style="color:#ff8c05"></i> <i class="fa fa-beer" style="color:#ff8c05"></i></p><br>
-                <p>{ <i class="fa fa-user-secret" style="color:#ff8c05"></i> } As a professional, I have 2+ years of experience in Web Developer.
-                  I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic
-                  developer. That’s why I’m the professional you should hire!</p><br>
-                <h4 style="color:#ff8c05"><b>Core Skills:</b></h4><br>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> Backend (Python & Go)</p>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> Databases (MySQL, PostgreSQL,
-                  MongoDB)</p>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> Bootstrap (Js, CSS, JQuery)</p>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> Git & CI (GitHub, GitLab, Circle
-                  CI, Heroku CI/CD)</p>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> DevOps (Linux, Apache, Nginx, AWS,
-                  Heroku, Docker)</p>
-                <br>
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+    <ul class="pagination pagination-sm">
+      {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+      {% else %}
+        <li class="disabled"><span aria-hidden="true">&laquo;</span></li>
+      {% endif %}
 
-                <h4 style="color:#ff8c05"><b>Interests:</b></h4><br>
-                <p><i class="fa fa-rocket" style="color:#d61a5e"></i> Big Data, IT Security</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-12 col-xs-12">
-            <div class="content-right"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- end about -->
+      <li><a href="/">First</a></li>
 
-  <!-- portfolio -->
-  <div id="blog" class="blog segments">
-    <div class="container">
-      <div class="section-title">
-        <h3>Recent Portfolio</h3>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="content">
-            <div class="image">
-              <img src="images/placeholder.jpg" alt="">
-            </div>
-            <div class="blog-title">
-              <div class="date">
-                <a href="#"><span style="color:#d61a5e">PROJECT 1</span></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="content no-mb">
-            <div class="image">
-              <img src="images/placeholder.jpg" alt="">
-            </div>
-            <div class="blog-title">
-              <div class="date">
-                <a href="#"><span style="color:#d61a5e">PROJECT 2</span></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="content no-mb">
-            <div class="image">
-              <img src="images/placeholder.jpg" alt="">
-            </div>
-            <div class="blog-title">
-              <div class="date">
-                <a href="#"><span style="color:#d61a5e">PROJECT 3</span></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="content no-mb">
-            <div class="image">
-              <img src="images/placeholder.jpg" alt="">
-            </div>
-            <div class="blog-title">
-              <div class="date">
-                <a href="#"><span style="color:#d61a5e">PROJECT 4</span></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- end portfolio -->
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="active"><a>{{ page }}<span class="sr-only">(current)</span></a></li>
+        {% elsif page == 1 %}
+          <li><a href="/">{{ page }}</a></li>
+        {% else %}
+          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+      {% endfor %}
 
-  <!-- footer -->
-  <div class="footer segments">
-    <div class="container">
-      <div class="box-content">
-        <p><a style="color:#ff8c05" href="https://github.com/purwowd" target="_blank">© 2020 | Purwo Widodo</a>
-        </p>
-      </div>
-    </div>
-  </div>
-  <!-- end footer -->
+      <li><a href="/page/{{ paginator.total_pages }}/">Last</a></li>
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fakeLoader.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.filterizr.min.js"></script>
-  <script src="js/imagesloaded.pkgd.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/contact-form.js"></script>
-  <script src="js/main.js"></script>
-</body>
-
-</html>
+      {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+      {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+  {% endif %}
+</div><!-- end #home -->
