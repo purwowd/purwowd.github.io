@@ -2,9 +2,10 @@ title: 'My simple notes 👨🏻‍💻'
 description: 'The simplest way to keep my personal notes'
 author: Purwo Widodo
 github: https://github.com/purwowd
-about: I'm a software engineer in backend team, especially on python / django. Gopher by request
+about: I'm a software engineer in backend team. Especially on python / django.
 disqus_shortname: purwowd
 google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -30,8 +31,8 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    # - text: My Projects
+    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
     - text: Contact Me

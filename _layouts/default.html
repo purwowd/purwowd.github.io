@@ -44,6 +44,8 @@ layout: compress
 
     {% if page.image %}
       <meta content="{{ site.url }}/static/img/posts/{{ page.image }}" property="og:image">
+    {% else %}
+      <meta content="{{ site.url }}{{ site.avatar_url }}" property="og:image">
     {% endif %}
 
     {% if page.categories %}
@@ -113,7 +115,11 @@ layout: compress
     <div class="container">
       <div class="col-sm-3">
         <div class="fixed-condition">
-          <h1 class="author-name"><a href="/">{{ site.author }}</a></h1>
+          <!-- <h1 class="author-name"><a href="/">{{ site.author }}</a></h1> -->
+          <center>
+            <a href="/"><img class="profile-avatar" src="{{ site.avatar_url }}" height="75px" width="75px" /></a>
+            <h1 class="author-name">{{ site.author }}</h1>
+          </center>
           {% if site.about %}
             <div class="profile-about">
               {{ site.about }}
@@ -144,13 +150,11 @@ layout: compress
       <div class="col-sm-8 col-offset-1 main-layout">
         {{ content }}
         <footer>
-          &copy; 2020 Purwo Widodo
+          Copyright &copy; 2020 - <script type="text/javascript">var getYear = new Date;document.write(getYear.getFullYear());</script><a href="{{ site.github }}"> Purwo Widodo.</a> Powered by <a href="https://pages.github.com/">Github Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>
+          <!-- Build with <a href="https://jekyllrb.com/"><img src="/static/img/logo-2x.png" width="70" height="30"></a> -->
           <!-- {{ site.author }} -->
-          {% if site.github %}
-            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by <a href="https://github.com">
-                <img src="/static/img/logo-2x.png" width="70" height="30">
-            </a>
-          {% endif %}
+          <!-- {% if site.github %} -->
+          <!-- {% endif %} -->
           <div class="btn-github" style="float:right;">
             <iframe src="https://ghbtns.com/github-btn.html?user=purwowd&repo=purwowd.github.io&type=star&count=true" frameborder="0" scrolling="0" width="100" height="20px"></iframe>
             <iframe src="https://ghbtns.com/github-btn.html?user=purwowd&repo=purwowd.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="100" height="20px"></iframe>
