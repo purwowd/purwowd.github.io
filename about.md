@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
+<center><a href="/"><img style="width: 35%;border-radius: 0% 50% 50% 50%" src="{{ site.about_url }}" /></a></center>
+
 #### <center><strong>Ability to zoom out beyond the boundaries</strong></center>
 <hr>
 
-As a professional, I have 2+ years of experience in Web Developer. I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
+As a professional, I have 2+ years of experience in Web Developer.
 
-As a professional, I'm a passionate and energetic developer. That's why I'm the professional you should hire!
+I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
+
+That’s why I’m the professional you should hire!
 
 #### <strong>Core Skills:</strong>
 - Backend (Python & Go)
