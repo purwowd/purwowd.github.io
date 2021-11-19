@@ -17,20 +17,24 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-linkedin
+    - icon: bi-linkedin
       link: "https://www.linkedin.com/in/purwowd/"
-    - icon: fa-envelope
+    - icon: bi-envelope-open-fill
       link: "mailto:id.purwowd@gmail.com"
-    - icon: fa-github
+    - icon: bi-github
       link: "https://github.com/purwowd"
-    - icon: fa-street-view
+    - icon: bi-geo-alt-fill
       link: "https://goo.gl/maps/RevAYM3LQJHpPZ1S7"
-    - icon: fa-whatsapp
+    - icon: bi-whatsapp
       link: "http://wa.me/6287838311808"
-    - icon: fa-twitter
+    - icon: bi-twitter
       link: "https://twitter.com/purwowd"
-    - icon: fa-stack-overflow
+    - icon: bi-stack-overflow
       link: "https://stackoverflow.com/users/11934986"
+    - icon: bi-telegram
+      link: "https://t.me/purwowd"
+    - icon: bi-instagram
+      link: "https://instagram.com/purw0wd"
 
 share:
   twitter_username: github.io
