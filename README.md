@@ -1,4 +1,4 @@
-# My simple notes 👨🏻‍💻 - purwowd.github.io
+# My simple notes 👨🏻‍💻
 
 ### How to run:
 
