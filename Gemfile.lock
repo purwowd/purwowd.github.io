@@ -300,6 +300,7 @@ DEPENDENCIES
   backports (~> 3.21)
   github-pages
   jekyll-admin
+  jekyll-gist
   webrick (~> 1.7)
 
 BUNDLED WITH
