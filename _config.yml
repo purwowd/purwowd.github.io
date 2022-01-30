@@ -58,6 +58,14 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-admin
+
+jekyll_admin:
+  homepage: "posts"
+  hidden_links:
+    - pages
+    - staticfiles
+    - datafiles
 
 compress_html:
   clippings: all
