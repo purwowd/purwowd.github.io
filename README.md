@@ -1,12 +1,32 @@
 # My simple notes 👨🏻‍💻
 
-### How to run:
-
 ```bash
-# install ruby v2.4.0 with rbenv
+# Install rbenv
+$ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+$ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+$ exec $SHELL
+
+# Install ruby-build
+$ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+$ echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.zshrc
+$ exec $SHELL
+
+# Install ruby v2.4.0 with rbenv
 $ rbenv install 2.4.0
 $ rbenv global 2.4.0
+$ ruby -v
 
-# run app
+# If you get an error when installing `ruby v2.4.0`
+$ RUBY_CFLAGS=-DUSE_FFI_CLOSURE_ALLOC rbenv install 2.4.0
+$ rbenv global 2.4.0
+$ ruby -v
+
+# Install the dependencies
+$ git clone https://github.com/purwowd/purwowd.github.io.git
+$ cd purwowd.github.io/
+$ bundle install
+
+# Run app
 $ bundle exec jekyll serve
 ```
