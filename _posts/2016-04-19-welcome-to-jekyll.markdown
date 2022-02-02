@@ -1,7 +1,7 @@
 ---
 title: Welcome to Jekyll!
 layout: post
-date: '2013-02-19 21:28:15 +0700'
+date: '2016-04-19 21:28:15 +0700'
 categories:
 - jekyll
 ---
@@ -25,7 +25,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
-Test `Jekyll-Gist` in posts:
-
-{% gist 01320509ddb22cd67eda239483208917 settings_default.json %}

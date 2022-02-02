@@ -1,4 +1,4 @@
-# My simple notes 👨🏻‍💻
+# My simple notes
 
 ```bash
 # Install rbenv
