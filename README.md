@@ -17,7 +17,7 @@ $ rbenv install 2.4.0
 $ rbenv global 2.4.0
 $ ruby -v
 
-# If you get an error when installing `ruby v2.4.0`
+# If you get an error when installing `ruby v2.4.0` or install WSL2 (Ubuntu 20.04 LTS)
 $ RUBY_CFLAGS=-DUSE_FFI_CLOSURE_ALLOC rbenv install 2.4.0
 $ rbenv global 2.4.0
 $ ruby -v
