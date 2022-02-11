@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<center><a href="/"><img style="width: 35%;border-radius: 0% 50% 50% 50%" src="{{ site.about_url }}" /></a></center>
+<center><a href="/"><img style="width: 35%;border-radius: 50% 0% 50% 50%; border: 3px solid #25BFBF;" src="{{ site.about_url }}" /></a></center>
 
 #### <center><strong>Ability to zoom out beyond the boundaries</strong></center>
 <hr>
