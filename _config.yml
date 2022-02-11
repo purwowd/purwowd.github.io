@@ -5,7 +5,7 @@ github: https://github.com/purwowd
 about: I'm a software engineer in backend team. Especially on python / django.
 disqus_shortname: purwowd
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/avatar.jpeg
 about_url: /static/img/about.jpg
 
 enableTags: true
