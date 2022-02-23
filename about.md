@@ -25,7 +25,7 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 - <b>Bootstrap</b>: Js, CSS, JQuery
 - <b>Git & CI</b>: GitHub, GitLab, Circle CI, Heroku CI/CD
 - <b>DevOps</b>: Linux, Apache, Nginx, AWS, Heroku, Docker
-- <b>Software-defined radio</b>: OpenBTS, YateBTS, OpenLTE & RTL, BladeRF, USRP1, USRP B210
+- <b>Software-defined radio</b>: OpenBTS, YateBTS, OpenLTE, RTL, BladeRF, USRP1, USRP B210
 <br><br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>EXPERIENCE</strong></u>
@@ -38,13 +38,13 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 - #### <i>2020/09 - 2020/09</i>, <b>DevOps Engineer - Freelance (Remote)</b>, Waktukita.com, Indonesia, Client from Korea
     {: .text-justify}
     
-    <i>WordPress optimization of Seoulz.com and migration to Amazon Lightsail and Migrate an existing seoulz.com website using WordPress & configured SSL.</i>
+    <i>WordPress optimization of Seoulz.com, Migrate an existing website to Amazon Lightsail and configured SSL.</i>
     {: .text-justify}
 
 - #### <i>2020/05 - 2020/06</i>, <b>Radio Frequency Engineer - Freelance (Remote)</b>, Freelancer.com, Client from Australia
     {: .text-justify}
     
-    <i>A Raspberry Pi running raspbian, with an RTL2838 DVB-T connected to it. It will capture GSM traffic and record the IMSI, carrier, and distance to the device (using signal strength). The program needs to send this data via REST, or alternatively store it in an SQLite DB on the Pi</i>
+    <i>A Raspberry Pi running raspbian, with an RTL2838 DVB-T connected to it. It will capture GSM traffic and record the IMSI, carrier, and distance to the device (using signal strength). The program needs to send this data via REST, or alternatively store it in an SQLite DB on the Pi.</i>
     {: .text-justify}
 
 - #### <i>2017/10 - 2020/05</i>, <b>Wearing Many Hats - Full-time (On-site)</b>, PT. Solusi Intek Indonesia, Jakarta, Indonesia
@@ -52,12 +52,12 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 
     <b>Back-end Developer</b>
 
-    <i>Develop back-end components (Mostly using native Python & Django), Coordinate with internal teams to understand user requirements and provide technical solutions</i>
+    <i>Develop back-end components (Mostly using native Python & Django), Coordinate with internal teams to understand user requirements and provide technical solutions.</i>
     {: .text-justify}
 
     <b>Radio Frequency Engineer</b>
 
-    <i>Research about GSM Software-Defined Radio (SDR), OpenBTS, YateBTS, IMSI Catcher, OpenLTE, Building prototypes and testing technology that will be used in new products, Penetration Testing</i>
+    <i>Research about GSM Software-Defined Radio (SDR), OpenBTS, YateBTS, IMSI Catcher, OpenLTE, Building prototypes and testing technology that will be used in new products, Penetration Testing.</i>
     {: .text-justify}
 
     <b>Maltego Trainer</b>
