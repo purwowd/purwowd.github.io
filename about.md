@@ -15,7 +15,7 @@ As a professional, I have 2+ years of experience in Web Developer.
 
 I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
 
-<i>`That’s why I’m the professional you should hire!`</i>
+<i><b>That’s why I’m the professional you should hire!</b></i>
 <br><br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SKILLS</strong></u>
