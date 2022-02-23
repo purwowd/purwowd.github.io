@@ -12,20 +12,29 @@ permalink: /about/
 #### <u style="text-decoration-color:#25BFBF"><strong>SUMMARY</strong></u>
 
 As a professional, I have 2+ years of experience in Web Developer.
+{: .text-justify}
 
 I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
+{: .text-justify}
 
 <i><b>That’s why I’m the professional you should hire!</b></i>
+{: .text-justify}
 <br><br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SKILLS</strong></u>
 
 - <b>Backend</b>: Python & Go
+{: .text-justify}
 - <b>Databases</b>: MySQL, PostgreSQL, MongoDB
+{: .text-justify}
 - <b>Bootstrap</b>: Js, CSS, JQuery
+{: .text-justify}
 - <b>Git & CI</b>: GitHub, GitLab, Circle CI, Heroku CI/CD
+{: .text-justify}
 - <b>DevOps</b>: Linux, Apache, Nginx, AWS, Heroku, Docker
+{: .text-justify}
 - <b>Software-defined radio</b>: OpenBTS, YateBTS, OpenLTE, RTL, BladeRF, USRP1, USRP B210
+{: .text-justify}
 <br><br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>EXPERIENCE</strong></u>
@@ -78,3 +87,4 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 
 #### <u style="text-decoration-color:#25BFBF"><strong>INTEREST</strong></u>
 - Machine Learning, Big Data, Security
+{: .text-justify}
