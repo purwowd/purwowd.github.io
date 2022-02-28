@@ -19,7 +19,7 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 
 <i><b>That’s why I’m the professional you should hire!</b></i>
 {: .text-justify}
-<br><br>
+<br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SKILLS</strong></u>
 
@@ -35,7 +35,7 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 {: .text-justify}
 - <b>Software-defined radio</b>: OpenBTS, YateBTS, OpenLTE, RTL, BladeRF, USRP1, USRP B210
 {: .text-justify}
-<br><br>
+<br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>EXPERIENCE</strong></u>
 - #### <i>2020/12 - Present</i>, <b>Software Engineer - Full-time (Remote)</b>, PT. Perjalanan Menembus Galaksi, Bandung, Indonesia
@@ -83,7 +83,8 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
     {: .text-justify}
 
     <i>Learn basic of programming, cybersecurity and ethical hacking. [BUGR Team](https://ctftime.org/team/36151/)</i>
-<br><br>
+
+<br>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>INTEREST</strong></u>
 - Machine Learning, Big Data, Security
