@@ -59,6 +59,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-admin
+  - jemoji
 
 jekyll_admin:
   homepage: "posts"

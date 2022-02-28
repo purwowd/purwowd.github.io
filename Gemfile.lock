@@ -302,6 +302,7 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-gist
+  jemoji
   webrick (~> 1.7)
 
 BUNDLED WITH
