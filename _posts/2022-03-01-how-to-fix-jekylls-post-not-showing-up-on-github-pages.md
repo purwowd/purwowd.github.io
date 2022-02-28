@@ -6,7 +6,7 @@ categories:
 - jekyll
 ---
 
-Actually, this is a stupid thing, because the issue come up when I missing to add GMT at end of the line on the date property of my new post.
+Actually, this is a stupid thing, because the issue come up when I missing to add `GMT` at end of the line on the date property of my new post.
 
 `before` :
 {% highlight markdown %}
