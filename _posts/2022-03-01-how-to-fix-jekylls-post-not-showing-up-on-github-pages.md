@@ -1,7 +1,7 @@
 ---
 title: How to fix Jekyll's post not showing up on Github pages
 layout: post
-date: '2022-03-01 00:16:12'
+date: '2022-03-01 00:16:12 +0700'
 categories:
 - jekyll
 ---
