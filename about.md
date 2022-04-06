@@ -16,7 +16,7 @@ As a professional, I’m a passionate, energetic developer, reliable, prompt, ho
 
 Backend: Python and Go
 
-GitHub: https://github.com/purwowd
+GitHub: [https://github.com/purwowd](https://github.com/purwowd)
 {: .text-justify}
 
 <i><b>That’s why I’m the professional you should hire!</b></i>
