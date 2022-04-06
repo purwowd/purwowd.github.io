@@ -57,7 +57,7 @@ As a professional, I’m a passionate, energetic developer, reliable, prompt, ho
 - #### <i>2017/10 - 2020/05</i>, <b>IT Staff - Full-time (On-site)</b>, PT. Solusi Intek Indonesia, Jakarta, Indonesia
     {: .text-justify}
 
-    <b>Back-end Developer & RnD</b>
+    <b>Back-end and R&D</b>
 
     <i>Develop back-end components (Mostly using native Python & Django), Coordinate with internal teams to understand user requirements and provide technical solutions. Research about GSM Software-Defined Radio (SDR), OpenBTS, YateBTS, IMSI Catcher, OpenLTE, Building prototypes and testing technology that will be used in new products, Penetration Testing.</i>
     {: .text-justify}
