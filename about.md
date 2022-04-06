@@ -15,6 +15,7 @@ Hi, my name is Purwo Widodo. I have 2+ years of experience as a Back-end Develop
 As a professional, I’m a passionate, energetic developer, reliable, prompt, honest, quick learner, and with clean code.
 
 Backend: Python and Go
+
 GitHub: https://github.com/purwowd
 {: .text-justify}
 
