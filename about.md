@@ -41,13 +41,19 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 - #### <i>2020/12 - Present</i>, <b>Software Engineer - Full-time (Remote)</b>, PT. Perjalanan Menembus Galaksi, Bandung, Indonesia
     {: .text-justify}
     
-    <i>Develop existing system on the company, migrate web apps from Django+Bootstrap to RESTful API and Troubleshooting.</i>
+    <i>Develop an existing system in the company, Migrate monolith web app to RESTful API and Troubleshooting.</i>
+    {: .text-justify}
+
+- #### <i>2022/03 - Present</i>, <b>Embedded Engineer - Freelance (Remote)</b>, Assessed, Indonesia, Client from Singapore
+    {: .text-justify}
+    
+    <i>Maintenance website NUS STP Portal.</i>
     {: .text-justify}
 
 - #### <i>2020/09 - 2020/09</i>, <b>DevOps Engineer - Freelance (Remote)</b>, Waktukita.com, Indonesia, Client from Korea
     {: .text-justify}
     
-    <i>WordPress optimization of Seoulz.com, Migrate an existing website to Amazon Lightsail and configured SSL.</i>
+    <i>WordPress optimization of a website in the startup ecosystem, migration to Amazon Lightsail, and configuring SSL Cert.</i>
     {: .text-justify}
 
 - #### <i>2017/10 - 2020/05</i>, <b>IT Staff - Full-time (On-site)</b>, PT. Solusi Intek Indonesia, Jakarta, Indonesia
@@ -60,7 +66,7 @@ I’m a passionate, reliable, prompt, honest, quick learner, clean code and ener
 
     <b>Maltego Trainer</b>
 
-    <i>Talk about basic Techniques used in Profiling with Maltego XL and Alternative methods (E.g: Tools, Manual Identification, Social Engineering, Phishing, and GSM Call). Installation Maltego Server CTAS (Commercial Transform Application Server), iTDS (Internal Transform Distribution Server), Comms (Collaboration Server) to host your Transform servers on infrastructure you control rather than having your Transforms run over Maltego's infrastructure.</i>
+    <i>Talk about basic Techniques used in Profiling with Maltego XL and Alternative methods (E.g: Tools, Manual Identification, Social Engineering, Phishing, and GSM Call).</i>
     {: .text-justify}
 
     <b>Drone Pilot</b>
