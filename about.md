@@ -11,10 +11,11 @@ permalink: /about/
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SUMMARY</strong></u>
 
-As a professional, I have 2+ years of experience in Web Developer.
-{: .text-justify}
+Hi, my name is Purwo Widodo. I have 2+ years of experience as a Back-end Developer.
+As a professional, I’m a passionate, energetic developer, reliable, prompt, honest, quick learner, and with clean code.
 
-I’m a passionate, reliable, prompt, honest, quick learner, clean code and energetic developer.
+Backend: Python and Go
+GitHub: https://github.com/purwowd
 {: .text-justify}
 
 <i><b>That’s why I’m the professional you should hire!</b></i>
