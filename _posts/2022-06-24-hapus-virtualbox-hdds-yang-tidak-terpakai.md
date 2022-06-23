@@ -6,12 +6,12 @@ categories:
 - etc
 ---
 
-Commands VM VirtualBox Command Line Management Interface yang digunakan adalah `vboxmanage`:
+Commands VM VirtualBox Command Line Management Interface yang digunakan adalah **vboxmanage**:
 {% highlight bash %}
 $ vboxmanage list hdds
 {% endhighlight %}
 
-Catat `uuid` hdds yang akan di hapus. Selanjutnya jalankan perintah:
+Catat **uuid** hdds yang akan di hapus. Selanjutnya jalankan perintah:
 {% highlight bash %}
 $ vboxmanage closemedium disk {uuid} --delete
 {% endhighlight %}

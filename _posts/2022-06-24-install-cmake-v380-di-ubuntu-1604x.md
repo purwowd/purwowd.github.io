@@ -11,7 +11,7 @@ Hapus atau uninstall cmake yang terinstall pada linux OS.
 $ sudo apt remove cmake
 {% endhighlight %}
 
-Download dulu bash script file [cmake](https://cmake.org/files/v3.8/cmake-3.8.0-Linux-x86_64.sh), dan copy ke folder `/opt`
+Download dulu bash script file [cmake](https://cmake.org/files/v3.8/cmake-3.8.0-Linux-x86_64.sh), dan copy ke folder **/opt**
 {% highlight bash %}
 $ sudo cp cmake-3.8.0-Linux-x86_64.sh /opt
 $ sudo chmod +x cmake-3.8.0-Linux-x86_64.sh
