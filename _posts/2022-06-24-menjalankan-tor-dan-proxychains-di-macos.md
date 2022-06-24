@@ -24,4 +24,4 @@ $ export http_proxy=socks5://127.0.0.1:9050
 $ export https_proxy=socks5://127.0.0.1:9050
 {% endhighlight %}
 
-Untuk konfigurasi **proxychains.conf**, cek langsung di [repo github](http://https://github.com/purwowd/tor-proxychains4-mac)
+Untuk konfigurasi **proxychains.conf**, cek langsung di [repo github](https://github.com/purwowd/tor-proxychains4-mac)
