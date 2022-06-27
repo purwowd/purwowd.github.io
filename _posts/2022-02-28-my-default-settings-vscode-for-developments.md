@@ -6,7 +6,7 @@ categories:
 - vscode
 ---
 
-`settings.json`
+Copy kode dibawah ke pengaturan VSCode: `Preferences > settings > settings.json`
 
 {% highlight json %}
 {
