@@ -1,5 +1,5 @@
 ---
-title: My Default settings VSCode for Developments
+title: My default VSCode settings for Developments
 layout: post
 date: '2022-02-28 22:56:02 +0700'
 categories:
