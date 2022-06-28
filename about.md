@@ -11,7 +11,7 @@ permalink: /about/
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SUMMARY</strong></u>
 
-Hi, my name is Purwo Widodo. I have 2+ years of experience as a Back-end Developer.
+Hi, my name is Purwo Widodo. I have 3+ years of experience as a Back-end Developer.
 As a professional, I’m a passionate, energetic developer, reliable, prompt, honest, quick learner, and with clean code.
 {: .text-justify}
 
