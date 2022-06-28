@@ -1,7 +1,7 @@
 ---
 title: My VSCode settings for Django Developments
 layout: post
-date: '2022-06-28 09:04:24 +0700'
+date: '2022-06-28 09:04:24'
 categories:
 - vscode
 ---
@@ -33,13 +33,6 @@ Contoh: `myproject > .vscode/settings.json`
     "python.formatting.blackArgs": [
         "--line-length",
         "120"
-    ],
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        "./scalev_api",
-        "-p",
-        "test_*.py"
     ],
     "python.testing.pytestEnabled": true,
     "python.testing.pytestArgs": [
