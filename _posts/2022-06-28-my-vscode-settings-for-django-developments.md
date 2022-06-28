@@ -34,10 +34,6 @@ Contoh: `myproject > .vscode/settings.json`
         "--line-length",
         "120"
     ],
-    "python.testing.pytestEnabled": true,
-    "python.testing.pytestArgs": [
-        "."
-    ],
     "python.testing.unittestEnabled": false
 }
 
