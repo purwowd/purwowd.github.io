@@ -26,11 +26,11 @@ social:
     - icon: bi-geo-alt-fill
       link: "https://goo.gl/maps/RevAYM3LQJHpPZ1S7"
     - icon: bi-whatsapp
-      link: "http://wa.me/6287838311808"
+      link: "#"
     - icon: bi-twitter
       link: "https://twitter.com/purwowd"
     - icon: bi-facebook
-      link: "https://fb.com/purwowd"
+      link: "#"
     - icon: bi-stack-overflow
       link: "https://stackoverflow.com/users/11934986"
     - icon: bi-telegram
