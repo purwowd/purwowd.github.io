@@ -6,52 +6,61 @@ permalink: /about/
 
 <center><a href="/"><img style="width: 35%;border-radius: 50% 0% 50% 50%; border: 3px solid #25BFBF;" src="{{ site.about_url }}" /></a></center>
 
-#### <center><strong>Ability to zoom out beyond the boundaries</strong></center>
 <hr>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>SUMMARY</strong></u>
 
-Hi, my name is Purwo Widodo. I have 3+ years of experience as a Back-end Developer.
-As a professional, I’m a passionate, energetic developer, reliable, prompt, honest, quick learner, and with clean code.
-{: .text-justify}
-
-<i><b>That’s why I’m the professional you should hire!</b></i>
-{: .text-justify}
+🌐 Ability to zoom out beyond the boundaries 🌐
 <br>
 
-#### <u style="text-decoration-color:#25BFBF"><strong>SKILLS</strong></u>
+👋 Hi, my name is Purwo Widodo! I'm a passionate and energetic Backend Developer with over 2+ years of professional experience, committed to delivering reliable, prompt, and high-quality solutions.
 
-- <b>Backend</b>: Python & Go
+💡 Why work with me? As a developer, I pride myself on:
+
+- Quick learning and adaptability
+
+- Emphasizing clean and maintainable code
+
+- Honesty and integrity in all aspects of my work
+
+🔧 Technical Skills:
+
+- Backend: Proficient in Python and Go
+
+- Experienced with various frameworks, libraries, and tools
+
+🔗 Connect with me for:
+
+- Potential collaboration or projects
+
+- Knowledge-sharing and staying up-to-date with industry trends
+
+- Building meaningful professional relationships
+
+- Check out my work on GitHub: [https://github.com/purwowd](https://github.com/purwowd)
 {: .text-justify}
-- <b>Databases</b>: MySQL, PostgreSQL, MongoDB
+
+<i><b>Let's go beyond boundaries and create amazing solutions together!</b></i>
 {: .text-justify}
-- <b>Bootstrap</b>: Js, CSS, JQuery
-{: .text-justify}
-- <b>Git & CI</b>: GitHub, GitLab, Circle CI, Heroku CI/CD
-{: .text-justify}
-- <b>DevOps</b>: Linux, Apache, Nginx, AWS, Heroku, Docker
-{: .text-justify}
-- <b>Software-defined radio</b>: OpenBTS, YateBTS, OpenLTE, RTL, BladeRF, USRP1, USRP B210
-{: .text-justify}
-<br>
+<hr>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>EXPERIENCE</strong></u>
 - #### <i>2020/12 - Present</i>, <b>Software Engineer - Full-time (Remote)</b>, PT. Perjalanan Menembus Galaksi, Bandung, Indonesia
     {: .text-justify}
     
-    <i>Develop an existing system in the company, Migrate monolith web app to RESTful API and Troubleshooting.</i>
+    <i>As a member of the Backend Team, my responsibilities will be to develop and improve an existing system within the company. Additionally, I'll be responsible for troubleshooting any issues in the system.</i>
     {: .text-justify}
 
 - #### <i>2022/03 - Present</i>, <b>Embedded Engineer - Freelance (Remote)</b>, Assessed, Indonesia, Client from Singapore
     {: .text-justify}
     
-    <i>Maintenance website NUS STP Portal.</i>
+    <i>My responsibility is to maintain the NUS STP Portal website for a client based in Singapore.</i>
     {: .text-justify}
 
 - #### <i>2020/09 - 2020/09</i>, <b>DevOps Engineer - Freelance (Remote)</b>, Waktukita.com, Indonesia, Client from Korea
     {: .text-justify}
     
-    <i>WordPress optimization of a website in the startup ecosystem, migration to Amazon Lightsail, and configuring SSL Cert.</i>
+    <i>My responsibility is to optimize a startup's WordPress website for a client in Korea. This will involve migrating the site to Amazon Lightsail and configuring SSL certificates.</i>
     {: .text-justify}
 
 - #### <i>2017/10 - 2020/05</i>, <b>IT Staff - Full-time (On-site)</b>, PT. Solusi Intek Indonesia, Jakarta, Indonesia
@@ -59,17 +68,17 @@ As a professional, I’m a passionate, energetic developer, reliable, prompt, ho
 
     <b>Back-end and R&D</b>
 
-    <i>Develop back-end components (Mostly using native Python & Django), Coordinate with internal teams to understand user requirements and provide technical solutions. Research about GSM Software-Defined Radio (SDR), OpenBTS, YateBTS, IMSI Catcher, OpenLTE, Building prototypes and testing technology that will be used in new products, Penetration Testing.</i>
+    <i>As a Back-end and R&D, I am responsible for developing back-end components, collaborating with internal teams to provide technical solutions, and performing R&D on GSM Software-Defined Radio. You'll also build prototypes, test new technology for use in new products, and conduct penetration testing.</i>
     {: .text-justify}
 
     <b>Maltego Trainer</b>
 
-    <i>Talk about basic Techniques used in Profiling with Maltego XL and Alternative methods (E.g: Tools, Manual Identification, Social Engineering, Phishing, and GSM Call).</i>
+    <i>As a Maltego Trainer, my responsibility is to train individuals and teams to enhance their skills in using Maltego for cyber profiling and deep technique analysis. I will create training materials, hold training sessions, and offer ongoing support to ensure they are proficient in using Maltego.</i>
     {: .text-justify}
 
     <b>Drone Pilot</b>
 
-    <i>Check drones before a flight to ensure safe and proper operation, Analyze weather forecasts to ensure safe flights, Document pre-and post-flight logs, Monitor drones during flight, Plan drone flight routes, Navigate drones along designated paths, Gather information or produce aerial photographs, as needed.</i>
+    <i>As a Drone Pilot, My responsibilities include checking and maintaining drones before the flight, analyzing weather conditions for safe flying, documenting flight logs, monitoring drones during flight, planning flight routes, and gathering information or taking aerial photographs as needed.</i>
     {: .text-justify}
 
 - #### <i>2017/03 - 2017/09</i>, <b>Student - Activities and societies</b>, QODR & BUGR, Yogyakarta Province, Indonesia
@@ -77,7 +86,7 @@ As a professional, I’m a passionate, energetic developer, reliable, prompt, ho
 
     <i>Learn basic of programming, cybersecurity and ethical hacking. [BUGR Team](https://ctftime.org/team/36151/)</i>
 
-<br>
+<hr>
 
 #### <u style="text-decoration-color:#25BFBF"><strong>INTEREST</strong></u>
 - Machine Learning, Big Data, Security
